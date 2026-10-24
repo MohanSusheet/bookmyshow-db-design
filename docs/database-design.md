@@ -14,7 +14,7 @@ similar in core behavior to BookMyShow. It focuses on movie screenings,
 auditorium seating, customer bookings, temporary seat holds, payments,
 and ticket issuance.
 
-The immediate goal is to agree on the logical model and its business
+The immediate goal is to come up with logical model and its business
 rules before writing executable SQL. This document is a design baseline;
 implementation details such as exact SQL types, indexes, transaction
 logic, and constraints will be finalized during schema design.
