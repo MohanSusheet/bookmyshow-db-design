@@ -500,8 +500,7 @@ following concepts must be represented.
   -----------------------------------------------------------------------
 
 These are lifecycle concepts, not a finalized list of allowed status
-strings. Valid transitions and terminal states must be defined before
-implementation.
+strings.
 
 ------------------------------------------------------------------------
 
@@ -537,7 +536,7 @@ schema is considered final:
 
 ## 9. Proposed implementation sequence
 
-1.  Review and approve this requirements baseline.
+1.  Reviewing this requirements baseline.
 2.  Finalize the ER diagram and remove or justify any redundant
     attributes.
 3.  Normalize the relational model and define primary keys, foreign
