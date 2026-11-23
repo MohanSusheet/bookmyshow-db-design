@@ -3,7 +3,7 @@
 ## Overview
 A MySQL 8 / InnoDB relational database for a cinema ticket-booking workflow. The schema models customers, theatres, auditoriums, physical seats, movies, shows, bookings, temporary seat holds, current show-seat claims, confirmed booking seats, payment attempts, webhook events, refunds and tickets.
 
-## Requirements
+## Requirements 
 - MySQL 8.0.16 or later (project owner reports server 8.0.46).
 - InnoDB.
 - MySQL command-line client or MySQL Workbench.
