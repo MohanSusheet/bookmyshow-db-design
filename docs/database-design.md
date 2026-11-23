@@ -33,7 +33,7 @@ logic, and constraints will be finalized during schema design.
 -   Preserve useful booking, hold, payment, and ticket history rather
     than relying on deleting expired records.
 
-## 2. Agreed business requirements
+## 2. Defined business requirements
 
 ### 2.1 Cinema structure
 
